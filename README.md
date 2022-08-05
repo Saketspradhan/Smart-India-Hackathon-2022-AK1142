@@ -1,5 +1,5 @@
 # Smart-India-Hackathon-2022-FINALE-AK1142
 
-Developed by:
+Made with :sparkling_heart: by:
 
 - Saket Pradhan 
