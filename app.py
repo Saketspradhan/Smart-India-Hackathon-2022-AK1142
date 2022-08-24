@@ -1,11 +1,15 @@
 from flask import Flask, jsonify
+from flask_cors import CORS, cross_origin
 from datetime import datetime
 import requests
 import json
 
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.route("/WeatherAPI/<string:portnumber>")
+@cross_origin()
 def WeatherAPI(portnumber):
     portnumber = int(portnumber)
     if portnumber >= 12: portnumber = 5
