@@ -2,4 +2,7 @@
 
 Made with :sparkling_heart: by:
 
-- Saket Pradhan 
+- Saket Pradhan
+- Raj Shah
+- Ranveer Shah
+- Anuj Goenka
