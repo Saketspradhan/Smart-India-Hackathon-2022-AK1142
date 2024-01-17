@@ -6,3 +6,5 @@ Made with :sparkling_heart: by:
 - Raj Shah
 - Ranveer Shah
 - Anuj Goenka
+- Atharva Badhan
+- Ananya Shetty 
